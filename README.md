@@ -1,4 +1,3 @@
-Here is the README.md file for the Static Website (HTML/CSS/JS) project:
 
 🚀 Project Title & Tagline
 =====================
@@ -104,7 +103,7 @@ This project does not have a RESTful API, as it is a static website. However, if
 👤 Author
 ---------
 
-This project was created by Rajeev nayan. I'm a [student/developer] with a passion for building innovative and user-friendly applications.
+This project was created by Rajeev nayan. I'm a student with a passion for building innovative and user-friendly applications.
 
 📝 License
 ---------
